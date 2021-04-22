@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Developer and eager to help solve your problems as I also continuje to learn...
+I am a Developer and eager to help solve your problems as I also continue to learn...
 
 <!--
 **Aduda-Boaz/Aduda-Boaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
