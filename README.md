@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Developer and eager to help solve your problems as I also continue to learn...
+Full-stack developer, who loves to work with JavaScript, Ruby, Ruby on Rails, React and Redux.
 
 - 🔭 I’m currently working on upscaling my software development skills.
 - 🌱 I’m currently learning Software development techniques.
